@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukascalda
-- 👀 I’m interested in all things open source
-
+ Not a programmer, linux power user at best.
+ Open source fan, translator. 
 
 <!---
 lukascalda/lukascalda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
